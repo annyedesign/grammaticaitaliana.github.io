@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Grammatica Italiana",
+    "description": "",
+    "home_page_url": "https://github.com/annyedesign/grammaticaitaliana",
+    "feed_url": "https://github.com/annyedesign/grammaticaitaliana/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Grammatica Italiana"
+    },
+    "items": [
+        {
+            "id": "https://github.com/annyedesign/grammaticaitaliana/il-verbo-essere.html",
+            "url": "https://github.com/annyedesign/grammaticaitaliana/il-verbo-essere.html",
+            "title": "Il verbo essere",
+            "summary": "Il verbo essere",
+            "content_html": "<p>Il verbo essere</p>",
+            "author": {
+                "name": "Grammatica Italiana"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-22T17:46:57+01:00",
+            "date_modified": "2026-03-22T17:46:57+01:00"
+        }
+    ]
+}

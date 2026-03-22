@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Grammatica Italiana</title>
+    <link href="https://github.com/annyedesign/grammaticaitaliana/feed.xml" rel="self" />
+    <link href="https://github.com/annyedesign/grammaticaitaliana" />
+    <updated>2026-03-22T17:46:57+01:00</updated>
+    <author>
+        <name>Grammatica Italiana</name>
+    </author>
+    <id>https://github.com/annyedesign/grammaticaitaliana</id>
+
+    <entry>
+        <title>Il verbo essere</title>
+        <author>
+            <name>Grammatica Italiana</name>
+        </author>
+        <link href="https://github.com/annyedesign/grammaticaitaliana/il-verbo-essere.html"/>
+        <id>https://github.com/annyedesign/grammaticaitaliana/il-verbo-essere.html</id>
+
+        <updated>2026-03-22T17:46:57+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Il verbo essere
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Il verbo essere</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
